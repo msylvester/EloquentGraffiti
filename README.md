@@ -5,7 +5,9 @@ This is the source code for the website, www.eloquentgraffiti.com, written by Mi
 Motivation
 
 I wrote this site for two reasons:
+
 	1. To help artist's empower themselves.  
+	
 	2. To give a more appealing digital presentation of Artists' work
 
 Note every image is signed with the Artists social media links, if applicable, including instagram, twitter, tumblr, and facebook.
